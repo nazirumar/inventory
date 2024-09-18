@@ -12,7 +12,7 @@
     "@reduxjs/toolkit": "^2.2.7",
     "dotenv": "^16.4.5",
     "lucide-react": "^0.436.0",
-    "next": "14.2.6",
+    "next": "14.2.10",
     "numeral": "^2.0.6",
     "persistance": "^1.3.0",
     "react": "^18",
